@@ -15,6 +15,7 @@
 
 
 * Запрос
+
   .. code-block::
      {
        "accessDogToken": "JusOh2nRK1kZpxzK",
@@ -23,7 +24,8 @@
      }
 
 * Ответ
-  .. code-block::
+
+  .. code-block:: 
      {
        "success": "true",
      }
