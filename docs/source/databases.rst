@@ -46,7 +46,7 @@
 Таблица с решениями
 ^^^^^^^^^^^^^^^^^^^
 
-.. code-block::
+.. code-block:: sql
 
    responses (
        id INT PRIMARY KEY,
