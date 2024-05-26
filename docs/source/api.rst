@@ -14,10 +14,9 @@
 ``/dogs/update``
 
 
-Запрос
-^^^^^^
-
+* Запрос
   .. code-block::
+
      {
        "accessDogToken": "JusOh2nRK1kZpxzK",
        "dog_id": 44,
