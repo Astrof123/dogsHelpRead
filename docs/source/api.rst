@@ -24,8 +24,8 @@
      }
 
 * Ответ
-
   .. code-block:: 
+
      {
        "success": "true",
      }
